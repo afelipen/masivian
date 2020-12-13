@@ -14,5 +14,6 @@ namespace Masivian.Roulette.Infrastructure.Interfaces
         Task<OutcomingMessage> OpenRoulette(SpinWheel roulettee);
         Task<bool> SaveBet(Bet bet);
         Task<List<Bet>> getBetsRoulette(string idRoulette);
+        Task<bool> CloseRoulette(SpinWheel roulette);
     }
 }

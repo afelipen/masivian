@@ -65,6 +65,7 @@ namespace Masivian.Roulette.Infrastructure.Repositories
                         TypeBet = (TypeBet)int.Parse(reader["TypeBet"].ToString()),
                         Number = !Convert.IsDBNull(reader["Number"]) ? int.Parse(reader["Number"].ToString()) : 0,
                         BetColor = !Convert.IsDBNull(reader["BetColor"]) ? (ColorBet)int.Parse(reader["BetColor"].ToString()) : ColorBet.Undefined,
+                        UserBet = !Convert.IsDBNull(reader["UserBet"]) ? reader["UserBet"].ToString() : "",
                         RouletteId = idRoulette
                     };
                     bets.Add(bet);
@@ -151,6 +152,26 @@ namespace Masivian.Roulette.Infrastructure.Repositories
             }
 
             return true;
+        }
+
+
+        public async Task<bool> CloseRoulette(SpinWheel roulette)
+        {
+            bool response;
+            using (SqlConnection connection = new SqlConnection(settings.Value.ConnectionsStrings.SqlConnectionString))
+            {
+                SqlCommand command = new SqlCommand("Masivian_Close_Roulette", connection)
+                {
+                    CommandType = CommandType.StoredProcedure
+                };
+                command.Parameters.AddWithValue("@KeyRoulette", roulette.Id);
+                command.Parameters.AddWithValue("@dateClose", roulette.dateClose);
+
+                await connection.OpenAsync();
+                await command.ExecuteNonQueryAsync();
+                response = true;
+            }
+            return response;
         }
     }
 }

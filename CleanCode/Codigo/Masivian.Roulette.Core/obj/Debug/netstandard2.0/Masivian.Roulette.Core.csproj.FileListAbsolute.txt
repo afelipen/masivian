@@ -11,3 +11,16 @@ C:\Users\user\source\repos\Masivian\Masivian.Roulette.Core\bin\Debug\netstandard
 C:\Users\user\source\repos\Masivian\Masivian.Roulette.Core\bin\Debug\netstandard2.0\Masivian.Roulette.Infrastructure.pdb
 C:\Users\user\source\repos\Masivian\Masivian.Roulette.Core\bin\Debug\netstandard2.0\Masivian.Roulette.Domain.pdb
 C:\Users\user\source\repos\Masivian\Masivian.Roulette.Core\obj\Debug\netstandard2.0\Masivian.Roulette.Core.csproj.CopyComplete
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Core\bin\Debug\netstandard2.0\Masivian.Roulette.Core.deps.json
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Core\bin\Debug\netstandard2.0\Masivian.Roulette.Core.dll
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Core\bin\Debug\netstandard2.0\Masivian.Roulette.Core.pdb
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Core\bin\Debug\netstandard2.0\Masivian.Roulette.Domain.dll
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Core\bin\Debug\netstandard2.0\Masivian.Roulette.Infrastructure.dll
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Core\bin\Debug\netstandard2.0\Masivian.Roulette.Infrastructure.pdb
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Core\bin\Debug\netstandard2.0\Masivian.Roulette.Domain.pdb
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Core\obj\Debug\netstandard2.0\Masivian.Roulette.Core.csprojAssemblyReference.cache
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Core\obj\Debug\netstandard2.0\Masivian.Roulette.Core.AssemblyInfoInputs.cache
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Core\obj\Debug\netstandard2.0\Masivian.Roulette.Core.AssemblyInfo.cs
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Core\obj\Debug\netstandard2.0\Masivian.Roulette.Core.csproj.CopyComplete
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Core\obj\Debug\netstandard2.0\Masivian.Roulette.Core.dll
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Core\obj\Debug\netstandard2.0\Masivian.Roulette.Core.pdb

@@ -4001,11 +4001,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Masivian\\Masivian.Roulette.Infrastructure\\Masivian.Roulette.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Source\\Repos\\masivian\\masivian\\CleanCode\\Codigo\\Masivian.Roulette.Infrastructure\\Masivian.Roulette.Infrastructure.csproj",
       "projectName": "Masivian.Roulette.Infrastructure",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Masivian\\Masivian.Roulette.Infrastructure\\Masivian.Roulette.Infrastructure.csproj",
+      "projectPath": "D:\\Source\\Repos\\masivian\\masivian\\CleanCode\\Codigo\\Masivian.Roulette.Infrastructure\\Masivian.Roulette.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Masivian\\Masivian.Roulette.Infrastructure\\obj\\",
+      "outputPath": "D:\\Source\\Repos\\masivian\\masivian\\CleanCode\\Codigo\\Masivian.Roulette.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4024,8 +4024,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\Masivian\\Masivian.Roulette.Domain\\Masivian.Roulette.Domain.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\Masivian\\Masivian.Roulette.Domain\\Masivian.Roulette.Domain.csproj"
+            "D:\\Source\\Repos\\masivian\\masivian\\CleanCode\\Codigo\\Masivian.Roulette.Domain\\Masivian.Roulette.Domain.csproj": {
+              "projectPath": "D:\\Source\\Repos\\masivian\\masivian\\CleanCode\\Codigo\\Masivian.Roulette.Domain\\Masivian.Roulette.Domain.csproj"
             }
           }
         }

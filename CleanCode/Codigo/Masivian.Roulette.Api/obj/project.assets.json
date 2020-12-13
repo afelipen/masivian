@@ -8042,11 +8042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Masivian\\Masivian.Roulette.Api\\Masivian.Roulette.Api.csproj",
+      "projectUniqueName": "D:\\Source\\Repos\\masivian\\masivian\\CleanCode\\Codigo\\Masivian.Roulette.Api\\Masivian.Roulette.Api.csproj",
       "projectName": "Masivian.Roulette.Api",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Masivian\\Masivian.Roulette.Api\\Masivian.Roulette.Api.csproj",
+      "projectPath": "D:\\Source\\Repos\\masivian\\masivian\\CleanCode\\Codigo\\Masivian.Roulette.Api\\Masivian.Roulette.Api.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Masivian\\Masivian.Roulette.Api\\obj\\",
+      "outputPath": "D:\\Source\\Repos\\masivian\\masivian\\CleanCode\\Codigo\\Masivian.Roulette.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8065,11 +8065,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\Masivian\\Masivian.Roulette.Core\\Masivian.Roulette.Core.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\Masivian\\Masivian.Roulette.Core\\Masivian.Roulette.Core.csproj"
+            "D:\\Source\\Repos\\masivian\\masivian\\CleanCode\\Codigo\\Masivian.Roulette.Core\\Masivian.Roulette.Core.csproj": {
+              "projectPath": "D:\\Source\\Repos\\masivian\\masivian\\CleanCode\\Codigo\\Masivian.Roulette.Core\\Masivian.Roulette.Core.csproj"
             },
-            "C:\\Users\\user\\source\\repos\\Masivian\\Masivian.Roulette.Domain\\Masivian.Roulette.Domain.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\Masivian\\Masivian.Roulette.Domain\\Masivian.Roulette.Domain.csproj"
+            "D:\\Source\\Repos\\masivian\\masivian\\CleanCode\\Codigo\\Masivian.Roulette.Domain\\Masivian.Roulette.Domain.csproj": {
+              "projectPath": "D:\\Source\\Repos\\masivian\\masivian\\CleanCode\\Codigo\\Masivian.Roulette.Domain\\Masivian.Roulette.Domain.csproj"
             }
           }
         }

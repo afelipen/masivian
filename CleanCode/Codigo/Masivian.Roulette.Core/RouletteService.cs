@@ -54,6 +54,11 @@ namespace Masivian.Roulette.Core
                 throw new BusinessException("La ruleta ya se encuentra cerrada");
 
             ResultRoulette result = await processBets(idRoulette);
+            roullete.isOpen = false;
+            roullete.dateClose = DateTime.UtcNow;
+            bool response = await this.rouletteRepository.CloseRoulette(roullete);
+            if (!response)
+                throw new BusinessException("Error cerrando la ruleta, intente nuevamente");
 
             return result;
         }
@@ -75,6 +80,7 @@ namespace Masivian.Roulette.Core
                 result = calculateAmountNumber(winnersNumber, result);
             if (winnerColor.Any())
                 result = calculateAmountColor(winnerColor, result);
+
             return result;
         }
 
@@ -87,7 +93,7 @@ namespace Masivian.Roulette.Core
                 {
                     User = item.UserBet,
                     Amount = item.Amount * 5,
-                    TypeBet = item.TypeBet,                    
+                    TypeBet = item.TypeBet,
                 };
                 winnersNumber.Add(winner);
             }

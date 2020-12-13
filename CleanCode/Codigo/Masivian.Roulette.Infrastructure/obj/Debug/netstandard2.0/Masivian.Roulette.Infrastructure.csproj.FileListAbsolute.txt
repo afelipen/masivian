@@ -9,3 +9,14 @@ C:\Users\user\source\repos\Masivian\Masivian.Roulette.Infrastructure\obj\Debug\n
 C:\Users\user\source\repos\Masivian\Masivian.Roulette.Infrastructure\bin\Debug\netstandard2.0\Masivian.Roulette.Domain.dll
 C:\Users\user\source\repos\Masivian\Masivian.Roulette.Infrastructure\bin\Debug\netstandard2.0\Masivian.Roulette.Domain.pdb
 C:\Users\user\source\repos\Masivian\Masivian.Roulette.Infrastructure\obj\Debug\netstandard2.0\Masivian.Roulette.Infrastructure.csproj.CopyComplete
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Infrastructure\bin\Debug\netstandard2.0\Masivian.Roulette.Infrastructure.deps.json
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Infrastructure\bin\Debug\netstandard2.0\Masivian.Roulette.Infrastructure.dll
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Infrastructure\bin\Debug\netstandard2.0\Masivian.Roulette.Infrastructure.pdb
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Infrastructure\bin\Debug\netstandard2.0\Masivian.Roulette.Domain.dll
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Infrastructure\bin\Debug\netstandard2.0\Masivian.Roulette.Domain.pdb
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Infrastructure\obj\Debug\netstandard2.0\Masivian.Roulette.Infrastructure.csprojAssemblyReference.cache
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Infrastructure\obj\Debug\netstandard2.0\Masivian.Roulette.Infrastructure.AssemblyInfoInputs.cache
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Infrastructure\obj\Debug\netstandard2.0\Masivian.Roulette.Infrastructure.AssemblyInfo.cs
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Infrastructure\obj\Debug\netstandard2.0\Masivian.Roulette.Infrastructure.csproj.CopyComplete
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Infrastructure\obj\Debug\netstandard2.0\Masivian.Roulette.Infrastructure.dll
+D:\Source\Repos\masivian\masivian\CleanCode\Codigo\Masivian.Roulette.Infrastructure\obj\Debug\netstandard2.0\Masivian.Roulette.Infrastructure.pdb
